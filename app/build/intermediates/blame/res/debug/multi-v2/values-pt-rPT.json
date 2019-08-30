@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jenisha Dahal\\AndroidStudioProjects\\Event\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\c27583f8ffeb5611da778a4675d4f96b\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1009,1103,1201,1295,1395,1489,1585,1680,1772,1864,1951,2058,2170,2272,2380,2487,2594,2765,2864",
+                        "endColumns": "119,105,106,88,100,123,83,80,91,93,97,93,99,93,95,94,91,91,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,1004,1098,1196,1290,1390,1484,1580,1675,1767,1859,1946,2053,2165,2267,2375,2482,2589,2760,2859,2944"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,69",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1009,1103,1201,1295,1395,1489,1585,1680,1772,1864,1951,2058,2170,2272,2380,2487,2594,2765,7081",
+                        "endColumns": "119,105,106,88,100,123,83,80,91,93,97,93,99,93,95,94,91,91,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,1004,1098,1196,1290,1390,1484,1580,1675,1767,1859,1946,2053,2165,2267,2375,2482,2589,2760,2859,7161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\9c87d8d46442b5ab30c85d2e7cbb29f7\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "70",
+                        "startColumns": "4",
+                        "startOffsets": "7166",
+                        "endColumns": "100",
+                        "endOffsets": "7262"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\23f0e0e445e3d23627d402fabc0e5b50\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4120",
+                        "endColumns": "203",
+                        "endOffsets": "4319"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\da8cfc0d14f4596b4e68d4eff8719e24\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,184,220,262,299,336",
+                        "endColumns": "66,61,35,41,36,36,74",
+                        "endOffsets": "117,179,215,257,294,331,406"
+                    },
+                    "to": {
+                        "startLines": "29,51,61,62,63,64,66",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2864,5982,6702,6738,6780,6817,6902",
+                        "endColumns": "66,61,35,41,36,36,74",
+                        "endOffsets": "2926,6039,6733,6775,6812,6849,6972"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\f44cf699fad6dc32f7beb8390c20c277\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "102",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "6044",
+                        "endColumns": "106",
+                        "endOffsets": "6146"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\da493fd114a5ffabbef78550bdbbf609\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,195,283,346,424,499,565,633,697,767,834,882,930,986",
+                        "endColumns": "65,73,87,62,77,74,65,67,63,69,66,47,47,55,46",
+                        "endOffsets": "116,190,278,341,419,494,560,628,692,762,829,877,925,981,1028"
+                    },
+                    "to": {
+                        "startLines": "48,49,50,53,54,55,56,57,58,59,60,65,67,68,71",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5754,5820,5894,6151,6214,6292,6367,6433,6501,6565,6635,6854,6977,7025,7267",
+                        "endColumns": "65,73,87,62,77,74,65,67,63,69,66,47,47,55,46",
+                        "endOffsets": "5815,5889,5977,6209,6287,6362,6428,6496,6560,6630,6697,6897,7020,7076,7309"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jenisha Dahal\\.gradle\\caches\\transforms-2\\files-2.1\\5e44bcf9c6697b826d018cb76cbcf9e1\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "249,352,547,673,779,1006,1132,1280,1414,1661,1767,1968,2097,2315,2519,2613,2708",
+                        "endColumns": "102,194,125,105,226,125,147,133,246,105,200,128,217,203,93,94,111",
+                        "endOffsets": "351,546,672,778,1005,1131,1279,1413,1660,1766,1967,2096,2314,2518,2612,2707,2819"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2931,3038,3233,3363,3473,3700,3830,3982,4324,4571,4681,4882,5015,5233,5441,5539,5638",
+                        "endColumns": "106,194,129,109,226,129,151,137,246,109,200,132,217,207,97,98,115",
+                        "endOffsets": "3033,3228,3358,3468,3695,3825,3977,4115,4566,4676,4877,5010,5228,5436,5534,5633,5749"
+                    }
+                }
+            ]
+        }
+    ]
+}

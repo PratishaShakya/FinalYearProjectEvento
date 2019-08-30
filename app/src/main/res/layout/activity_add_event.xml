@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddEventActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <Button
+            android:id="@+id/chooseimg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CHOOSE IMAGE TO UPLOAD" />
+
+        <EditText
+            android:id="@+id/txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chooseimg"
+            android:hint="Enter Event Title"
+            tools:layout_editor_absoluteX="26dp"
+            tools:layout_editor_absoluteY="78dp">
+        </EditText>
+
+
+        <EditText
+            android:id="@+id/imgDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chooseimg"
+            android:hint="Enter event Description"
+            tools:layout_editor_absoluteX="26dp"
+            tools:layout_editor_absoluteY="78dp">
+        </EditText>
+
+        <EditText
+            android:id="@+id/editRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chooseimg"
+            android:hint="Enter Entry Fee"
+            tools:layout_editor_absoluteX="26dp"
+            tools:layout_editor_absoluteY="78dp">
+        </EditText>
+
+        <ImageView
+            android:id="@+id/imgPreview"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginBottom="8dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="144dp" />
+
+        <!--<ProgressBar-->
+
+        <!--android:id="@+id/progress_bar"-->
+        <!--style="@style/Widget.AppCompat.ProgressBar.Horizontal"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--tools:layout_editor_absoluteX="14dp"-->
+        <!--tools:layout_editor_absoluteY="200dp" />-->
+
+
+        <EditText
+            android:id="@+id/eventlocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="location"
+            android:inputType="textPersonName" />
+
+
+        <Button
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/eventDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date"/>
+
+        <Button
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/eventtime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Time"/>
+
+        <RelativeLayout
+            android:background="@drawable/spinner_back"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Spinner
+                android:id="@+id/spinner"
+                style="@style/TextAppearance.AppCompat.Widget.DropDownItem"
+                android:layout_width="match_parent"
+                android:layout_height="45dp">
+
+            </Spinner>
+
+        </RelativeLayout>
+
+
+
+
+        <com.google.android.gms.maps.MapView
+            android:visibility="gone"
+            android:id="@+id/mapView"
+            android:layout_width="394dp"
+            android:layout_height="135dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="49dp" />
+
+        <Button
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_bck"
+            android:layout_margin="30dp"
+            android:id="@+id/uploadbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="bottom"
+            android:text="Save Data"
+            />
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:khalti="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+
+    <khalti.widget.KhaltiButton
+        android:id="@+id/khalti_button"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:padding="0dp"
+        khalti:text="Khalti"
+        android:background="#4B0082"/>
+
+    <Button
+        android:id="@+id/book_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/khalti_button"
+        android:background="#A9A9A9"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:text="Book"
+        android:paddingTop="13dp"
+        android:paddingBottom="13dp"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+</LinearLayout>

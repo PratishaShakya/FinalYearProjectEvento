@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.khalti:khalti-android:1.2.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/279efdcd110d31579e8b1ddaf20d80f6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/279efdcd110d31579e8b1ddaf20d80f6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.khalti/khalti-android/1.2.8/68c2761363c47497deb8d01762acbdf75a893945/khalti-android-1.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
